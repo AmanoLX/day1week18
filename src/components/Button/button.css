@@ -1,0 +1,16 @@
+button{
+    border:5px solid orange;
+    border-radius: 5px;
+    height: 30px;
+    width: 60px;
+    cursor: pointer;
+}
+.danger{
+    background-color: red;
+    color:white
+}
+
+.success{
+    background-color:green;
+    color:white;
+}
